@@ -1,0 +1,6 @@
+[submodule "pyp-client"]
+	path = pyp-client
+	url = https://github.com/yinghaoawang/pyp-client
+[submodule "pyp-server"]
+	path = pyp-server
+	url = https://github.com/yinghaoawang/pyp-server
